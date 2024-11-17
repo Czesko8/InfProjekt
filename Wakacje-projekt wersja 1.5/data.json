@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "role": "admin",
+            "password": "xd123"
+        },
+        {
+            "username": "sprzedawca",
+            "role": "sprzedawca",
+            "password": "xd321"
+        },
+        {
+            "username": "uzytkownik",
+            "role": "uzytkownik",
+            "password": "xdxd"
+        }
+    ]
+}
